@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/vorti/dask/dkRoom/study/s2022/rust/rocket/test0716_1/hello-rocket/target/debug/build/typenum-041068385d971678/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/vorti/dask/dkRoom/study/s2022/rust/rocket/test0716_1/hello-rocket/target/debug/build/typenum-041068385d971678/out/op.rs
